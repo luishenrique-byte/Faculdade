@@ -8,6 +8,9 @@
       <sourceFolder url="file://$MODULE_DIR$/ListaExercicios04/Conversão de Dinheiro" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ListaExercicios04/Saudação" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ListaExercicios04/horas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListaExercicio06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListaExercicioSala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ListaExercicios04" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
