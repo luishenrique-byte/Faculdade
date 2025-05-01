@@ -1,0 +1,18 @@
+# Ignorar pastas do IntelliJ IDEA
+.idea/
+
+# Ignorar pastas de saída e compilação
+out/
+target/
+
+# Ignorar arquivos de classe Java
+*.class
+
+# Ignorar arquivos temporários do sistema
+*.log
+*.tmp
+
+# Ignorar configurações específicas de sistema
+*.swp
+.DS_Store
+Thumbs.db
