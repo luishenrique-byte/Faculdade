@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Qustão02 {
+public class Questao02 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Por favor, informe a altura do retângulo: ");
